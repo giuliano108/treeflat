@@ -1,0 +1,8 @@
+require "treeflat/version"
+require "treeflat/defaultinspect"
+require "treeflat/path"
+require "treeflat/leaf"
+require "treeflat/leaftransform"
+require "treeflat/leaves"
+require "treeflat/column"
+require "treeflat/columns"
